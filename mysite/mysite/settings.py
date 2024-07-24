@@ -87,7 +87,7 @@ DATABASES = {
     }
 }
 DATABASES = {
-    'default': dj_database_url.config(default='postgres://localhost:5432/your_database_name')
+    'default': dj_database_url.config(default='postgres://localhost:5432/DataRecovery')
 }
 
 # Password validation
